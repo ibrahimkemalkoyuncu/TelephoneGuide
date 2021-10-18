@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bX3TxobUudZ9TK6Apx+nlQ5mt8FpJ3W492/02WLAX8IdKEFzJ6jtthFR6SF/B9M3mt45kb4lnCpQh+0u/kYKeQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DB1\\Desktop\\Working\\Microservice\\TelephoneGuide\\src\\BuildingBlocks\\EventBus\\EventBus.Base\\EventBus.Base.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DB1\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

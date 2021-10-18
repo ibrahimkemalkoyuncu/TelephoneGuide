@@ -1,0 +1,8 @@
+
+
+
+EventBus.Base => Bizim birden fazla servis bus ýmýz olabilecek, 
+RabitMQ, Azur servis bus ý kullanacaðýz bu iksinin base classs ý olacak
+
+Factory => Dýþarýdan service lerimizin Rabit mq ya veya azur service baðlanabilecekleri bir factory
+

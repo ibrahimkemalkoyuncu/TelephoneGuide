@@ -1,0 +1,12 @@
+C:\Users\DB1\Desktop\Working\Microservice\TelephoneGuide\src\Services\OrderService\OrderService.Domain\bin\Debug\net5.0\OrderService.Domain.deps.json
+C:\Users\DB1\Desktop\Working\Microservice\TelephoneGuide\src\Services\OrderService\OrderService.Domain\bin\Debug\net5.0\OrderService.Domain.dll
+C:\Users\DB1\Desktop\Working\Microservice\TelephoneGuide\src\Services\OrderService\OrderService.Domain\bin\Debug\net5.0\ref\OrderService.Domain.dll
+C:\Users\DB1\Desktop\Working\Microservice\TelephoneGuide\src\Services\OrderService\OrderService.Domain\bin\Debug\net5.0\OrderService.Domain.pdb
+C:\Users\DB1\Desktop\Working\Microservice\TelephoneGuide\src\Services\OrderService\OrderService.Domain\obj\Debug\net5.0\OrderService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DB1\Desktop\Working\Microservice\TelephoneGuide\src\Services\OrderService\OrderService.Domain\obj\Debug\net5.0\OrderService.Domain.AssemblyInfoInputs.cache
+C:\Users\DB1\Desktop\Working\Microservice\TelephoneGuide\src\Services\OrderService\OrderService.Domain\obj\Debug\net5.0\OrderService.Domain.AssemblyInfo.cs
+C:\Users\DB1\Desktop\Working\Microservice\TelephoneGuide\src\Services\OrderService\OrderService.Domain\obj\Debug\net5.0\OrderService.Domain.csproj.CoreCompileInputs.cache
+C:\Users\DB1\Desktop\Working\Microservice\TelephoneGuide\src\Services\OrderService\OrderService.Domain\obj\Debug\net5.0\OrderService.Domain.dll
+C:\Users\DB1\Desktop\Working\Microservice\TelephoneGuide\src\Services\OrderService\OrderService.Domain\obj\Debug\net5.0\ref\OrderService.Domain.dll
+C:\Users\DB1\Desktop\Working\Microservice\TelephoneGuide\src\Services\OrderService\OrderService.Domain\obj\Debug\net5.0\OrderService.Domain.pdb
+C:\Users\DB1\Desktop\Working\Microservice\TelephoneGuide\src\Services\OrderService\OrderService.Domain\obj\Debug\net5.0\OrderService.Domain.csproj.AssemblyReference.cache
