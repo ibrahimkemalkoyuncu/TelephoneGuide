@@ -2,7 +2,6 @@ C:\Users\DB1\Desktop\Working\Microservice\TelephoneGuide\src\BuildingBlocks\Even
 C:\Users\DB1\Desktop\Working\Microservice\TelephoneGuide\src\BuildingBlocks\EventBus\EventBus.Kafka\bin\Debug\net5.0\EventBus.Kafka.dll
 C:\Users\DB1\Desktop\Working\Microservice\TelephoneGuide\src\BuildingBlocks\EventBus\EventBus.Kafka\bin\Debug\net5.0\ref\EventBus.Kafka.dll
 C:\Users\DB1\Desktop\Working\Microservice\TelephoneGuide\src\BuildingBlocks\EventBus\EventBus.Kafka\bin\Debug\net5.0\EventBus.Kafka.pdb
-C:\Users\DB1\Desktop\Working\Microservice\TelephoneGuide\src\BuildingBlocks\EventBus\EventBus.Kafka\obj\Debug\net5.0\EventBus.Kafka.csproj.AssemblyReference.cache
 C:\Users\DB1\Desktop\Working\Microservice\TelephoneGuide\src\BuildingBlocks\EventBus\EventBus.Kafka\obj\Debug\net5.0\EventBus.Kafka.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\DB1\Desktop\Working\Microservice\TelephoneGuide\src\BuildingBlocks\EventBus\EventBus.Kafka\obj\Debug\net5.0\EventBus.Kafka.AssemblyInfoInputs.cache
 C:\Users\DB1\Desktop\Working\Microservice\TelephoneGuide\src\BuildingBlocks\EventBus\EventBus.Kafka\obj\Debug\net5.0\EventBus.Kafka.AssemblyInfo.cs
@@ -10,3 +9,4 @@ C:\Users\DB1\Desktop\Working\Microservice\TelephoneGuide\src\BuildingBlocks\Even
 C:\Users\DB1\Desktop\Working\Microservice\TelephoneGuide\src\BuildingBlocks\EventBus\EventBus.Kafka\obj\Debug\net5.0\EventBus.Kafka.dll
 C:\Users\DB1\Desktop\Working\Microservice\TelephoneGuide\src\BuildingBlocks\EventBus\EventBus.Kafka\obj\Debug\net5.0\ref\EventBus.Kafka.dll
 C:\Users\DB1\Desktop\Working\Microservice\TelephoneGuide\src\BuildingBlocks\EventBus\EventBus.Kafka\obj\Debug\net5.0\EventBus.Kafka.pdb
+C:\Users\DB1\Desktop\Working\Microservice\TelephoneGuide\src\BuildingBlocks\EventBus\EventBus.Kafka\obj\Debug\net5.0\EventBus.Kafka.csproj.AssemblyReference.cache

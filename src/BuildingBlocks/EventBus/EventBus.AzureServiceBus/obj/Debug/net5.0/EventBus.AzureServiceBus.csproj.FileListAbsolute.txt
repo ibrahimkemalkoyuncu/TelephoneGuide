@@ -2,7 +2,6 @@ C:\Users\DB1\Desktop\Working\Microservice\TelephoneGuide\src\BuildingBlocks\Even
 C:\Users\DB1\Desktop\Working\Microservice\TelephoneGuide\src\BuildingBlocks\EventBus\EventBus.AzureServiceBus\bin\Debug\net5.0\EventBus.AzureServiceBus.dll
 C:\Users\DB1\Desktop\Working\Microservice\TelephoneGuide\src\BuildingBlocks\EventBus\EventBus.AzureServiceBus\bin\Debug\net5.0\ref\EventBus.AzureServiceBus.dll
 C:\Users\DB1\Desktop\Working\Microservice\TelephoneGuide\src\BuildingBlocks\EventBus\EventBus.AzureServiceBus\bin\Debug\net5.0\EventBus.AzureServiceBus.pdb
-C:\Users\DB1\Desktop\Working\Microservice\TelephoneGuide\src\BuildingBlocks\EventBus\EventBus.AzureServiceBus\obj\Debug\net5.0\EventBus.AzureServiceBus.csproj.AssemblyReference.cache
 C:\Users\DB1\Desktop\Working\Microservice\TelephoneGuide\src\BuildingBlocks\EventBus\EventBus.AzureServiceBus\obj\Debug\net5.0\EventBus.AzureServiceBus.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\DB1\Desktop\Working\Microservice\TelephoneGuide\src\BuildingBlocks\EventBus\EventBus.AzureServiceBus\obj\Debug\net5.0\EventBus.AzureServiceBus.AssemblyInfoInputs.cache
 C:\Users\DB1\Desktop\Working\Microservice\TelephoneGuide\src\BuildingBlocks\EventBus\EventBus.AzureServiceBus\obj\Debug\net5.0\EventBus.AzureServiceBus.AssemblyInfo.cs
@@ -10,3 +9,4 @@ C:\Users\DB1\Desktop\Working\Microservice\TelephoneGuide\src\BuildingBlocks\Even
 C:\Users\DB1\Desktop\Working\Microservice\TelephoneGuide\src\BuildingBlocks\EventBus\EventBus.AzureServiceBus\obj\Debug\net5.0\EventBus.AzureServiceBus.dll
 C:\Users\DB1\Desktop\Working\Microservice\TelephoneGuide\src\BuildingBlocks\EventBus\EventBus.AzureServiceBus\obj\Debug\net5.0\ref\EventBus.AzureServiceBus.dll
 C:\Users\DB1\Desktop\Working\Microservice\TelephoneGuide\src\BuildingBlocks\EventBus\EventBus.AzureServiceBus\obj\Debug\net5.0\EventBus.AzureServiceBus.pdb
+C:\Users\DB1\Desktop\Working\Microservice\TelephoneGuide\src\BuildingBlocks\EventBus\EventBus.AzureServiceBus\obj\Debug\net5.0\EventBus.AzureServiceBus.csproj.AssemblyReference.cache

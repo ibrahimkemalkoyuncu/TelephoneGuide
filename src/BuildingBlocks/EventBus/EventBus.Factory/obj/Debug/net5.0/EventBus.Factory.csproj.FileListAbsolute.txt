@@ -2,7 +2,6 @@ C:\Users\DB1\Desktop\Working\Microservice\TelephoneGuide\src\BuildingBlocks\Even
 C:\Users\DB1\Desktop\Working\Microservice\TelephoneGuide\src\BuildingBlocks\EventBus\EventBus.Factory\bin\Debug\net5.0\EventBus.Factory.dll
 C:\Users\DB1\Desktop\Working\Microservice\TelephoneGuide\src\BuildingBlocks\EventBus\EventBus.Factory\bin\Debug\net5.0\ref\EventBus.Factory.dll
 C:\Users\DB1\Desktop\Working\Microservice\TelephoneGuide\src\BuildingBlocks\EventBus\EventBus.Factory\bin\Debug\net5.0\EventBus.Factory.pdb
-C:\Users\DB1\Desktop\Working\Microservice\TelephoneGuide\src\BuildingBlocks\EventBus\EventBus.Factory\obj\Debug\net5.0\EventBus.Factory.csproj.AssemblyReference.cache
 C:\Users\DB1\Desktop\Working\Microservice\TelephoneGuide\src\BuildingBlocks\EventBus\EventBus.Factory\obj\Debug\net5.0\EventBus.Factory.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\DB1\Desktop\Working\Microservice\TelephoneGuide\src\BuildingBlocks\EventBus\EventBus.Factory\obj\Debug\net5.0\EventBus.Factory.AssemblyInfoInputs.cache
 C:\Users\DB1\Desktop\Working\Microservice\TelephoneGuide\src\BuildingBlocks\EventBus\EventBus.Factory\obj\Debug\net5.0\EventBus.Factory.AssemblyInfo.cs
@@ -10,3 +9,4 @@ C:\Users\DB1\Desktop\Working\Microservice\TelephoneGuide\src\BuildingBlocks\Even
 C:\Users\DB1\Desktop\Working\Microservice\TelephoneGuide\src\BuildingBlocks\EventBus\EventBus.Factory\obj\Debug\net5.0\EventBus.Factory.dll
 C:\Users\DB1\Desktop\Working\Microservice\TelephoneGuide\src\BuildingBlocks\EventBus\EventBus.Factory\obj\Debug\net5.0\ref\EventBus.Factory.dll
 C:\Users\DB1\Desktop\Working\Microservice\TelephoneGuide\src\BuildingBlocks\EventBus\EventBus.Factory\obj\Debug\net5.0\EventBus.Factory.pdb
+C:\Users\DB1\Desktop\Working\Microservice\TelephoneGuide\src\BuildingBlocks\EventBus\EventBus.Factory\obj\Debug\net5.0\EventBus.Factory.csproj.AssemblyReference.cache

@@ -11,7 +11,6 @@ C:\Users\DB1\Desktop\Working\Microservice\TelephoneGuide\src\ApiGateways\WebApiG
 C:\Users\DB1\Desktop\Working\Microservice\TelephoneGuide\src\ApiGateways\WebApiGateway\Web.ApiGateway\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\DB1\Desktop\Working\Microservice\TelephoneGuide\src\ApiGateways\WebApiGateway\Web.ApiGateway\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\DB1\Desktop\Working\Microservice\TelephoneGuide\src\ApiGateways\WebApiGateway\Web.ApiGateway\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\DB1\Desktop\Working\Microservice\TelephoneGuide\src\ApiGateways\WebApiGateway\Web.ApiGateway\obj\Debug\net5.0\Web.ApiGateway.csproj.AssemblyReference.cache
 C:\Users\DB1\Desktop\Working\Microservice\TelephoneGuide\src\ApiGateways\WebApiGateway\Web.ApiGateway\obj\Debug\net5.0\Web.ApiGateway.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\DB1\Desktop\Working\Microservice\TelephoneGuide\src\ApiGateways\WebApiGateway\Web.ApiGateway\obj\Debug\net5.0\Web.ApiGateway.AssemblyInfoInputs.cache
 C:\Users\DB1\Desktop\Working\Microservice\TelephoneGuide\src\ApiGateways\WebApiGateway\Web.ApiGateway\obj\Debug\net5.0\Web.ApiGateway.AssemblyInfo.cs
@@ -27,3 +26,4 @@ C:\Users\DB1\Desktop\Working\Microservice\TelephoneGuide\src\ApiGateways\WebApiG
 C:\Users\DB1\Desktop\Working\Microservice\TelephoneGuide\src\ApiGateways\WebApiGateway\Web.ApiGateway\obj\Debug\net5.0\ref\Web.ApiGateway.dll
 C:\Users\DB1\Desktop\Working\Microservice\TelephoneGuide\src\ApiGateways\WebApiGateway\Web.ApiGateway\obj\Debug\net5.0\Web.ApiGateway.pdb
 C:\Users\DB1\Desktop\Working\Microservice\TelephoneGuide\src\ApiGateways\WebApiGateway\Web.ApiGateway\obj\Debug\net5.0\Web.ApiGateway.genruntimeconfig.cache
+C:\Users\DB1\Desktop\Working\Microservice\TelephoneGuide\src\ApiGateways\WebApiGateway\Web.ApiGateway\obj\Debug\net5.0\Web.ApiGateway.csproj.AssemblyReference.cache

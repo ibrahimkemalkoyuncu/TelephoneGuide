@@ -9,4 +9,3 @@ C:\Users\DB1\Desktop\Working\Microservice\TelephoneGuide\src\Services\OrderServi
 C:\Users\DB1\Desktop\Working\Microservice\TelephoneGuide\src\Services\OrderService\OrderService.Domain\obj\Debug\net5.0\OrderService.Domain.dll
 C:\Users\DB1\Desktop\Working\Microservice\TelephoneGuide\src\Services\OrderService\OrderService.Domain\obj\Debug\net5.0\ref\OrderService.Domain.dll
 C:\Users\DB1\Desktop\Working\Microservice\TelephoneGuide\src\Services\OrderService\OrderService.Domain\obj\Debug\net5.0\OrderService.Domain.pdb
-C:\Users\DB1\Desktop\Working\Microservice\TelephoneGuide\src\Services\OrderService\OrderService.Domain\obj\Debug\net5.0\OrderService.Domain.csproj.AssemblyReference.cache

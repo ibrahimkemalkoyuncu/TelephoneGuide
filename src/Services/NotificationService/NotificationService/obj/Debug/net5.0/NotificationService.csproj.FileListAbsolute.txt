@@ -5,6 +5,7 @@ C:\Users\DB1\Desktop\Working\Microservice\TelephoneGuide\src\Services\Notificati
 C:\Users\DB1\Desktop\Working\Microservice\TelephoneGuide\src\Services\NotificationService\NotificationService\bin\Debug\net5.0\NotificationService.dll
 C:\Users\DB1\Desktop\Working\Microservice\TelephoneGuide\src\Services\NotificationService\NotificationService\bin\Debug\net5.0\ref\NotificationService.dll
 C:\Users\DB1\Desktop\Working\Microservice\TelephoneGuide\src\Services\NotificationService\NotificationService\bin\Debug\net5.0\NotificationService.pdb
+C:\Users\DB1\Desktop\Working\Microservice\TelephoneGuide\src\Services\NotificationService\NotificationService\obj\Debug\net5.0\NotificationService.csproj.AssemblyReference.cache
 C:\Users\DB1\Desktop\Working\Microservice\TelephoneGuide\src\Services\NotificationService\NotificationService\obj\Debug\net5.0\NotificationService.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\DB1\Desktop\Working\Microservice\TelephoneGuide\src\Services\NotificationService\NotificationService\obj\Debug\net5.0\NotificationService.AssemblyInfoInputs.cache
 C:\Users\DB1\Desktop\Working\Microservice\TelephoneGuide\src\Services\NotificationService\NotificationService\obj\Debug\net5.0\NotificationService.AssemblyInfo.cs
@@ -13,4 +14,3 @@ C:\Users\DB1\Desktop\Working\Microservice\TelephoneGuide\src\Services\Notificati
 C:\Users\DB1\Desktop\Working\Microservice\TelephoneGuide\src\Services\NotificationService\NotificationService\obj\Debug\net5.0\ref\NotificationService.dll
 C:\Users\DB1\Desktop\Working\Microservice\TelephoneGuide\src\Services\NotificationService\NotificationService\obj\Debug\net5.0\NotificationService.pdb
 C:\Users\DB1\Desktop\Working\Microservice\TelephoneGuide\src\Services\NotificationService\NotificationService\obj\Debug\net5.0\NotificationService.genruntimeconfig.cache
-C:\Users\DB1\Desktop\Working\Microservice\TelephoneGuide\src\Services\NotificationService\NotificationService\obj\Debug\net5.0\NotificationService.csproj.AssemblyReference.cache

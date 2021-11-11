@@ -11,7 +11,6 @@ C:\Users\DB1\Desktop\Working\Microservice\TelephoneGuide\src\Services\BasketServ
 C:\Users\DB1\Desktop\Working\Microservice\TelephoneGuide\src\Services\BasketService\BasketService.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\DB1\Desktop\Working\Microservice\TelephoneGuide\src\Services\BasketService\BasketService.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\DB1\Desktop\Working\Microservice\TelephoneGuide\src\Services\BasketService\BasketService.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\DB1\Desktop\Working\Microservice\TelephoneGuide\src\Services\BasketService\BasketService.Api\obj\Debug\net5.0\BasketService.Api.csproj.AssemblyReference.cache
 C:\Users\DB1\Desktop\Working\Microservice\TelephoneGuide\src\Services\BasketService\BasketService.Api\obj\Debug\net5.0\BasketService.Api.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\DB1\Desktop\Working\Microservice\TelephoneGuide\src\Services\BasketService\BasketService.Api\obj\Debug\net5.0\BasketService.Api.AssemblyInfoInputs.cache
 C:\Users\DB1\Desktop\Working\Microservice\TelephoneGuide\src\Services\BasketService\BasketService.Api\obj\Debug\net5.0\BasketService.Api.AssemblyInfo.cs
@@ -27,3 +26,4 @@ C:\Users\DB1\Desktop\Working\Microservice\TelephoneGuide\src\Services\BasketServ
 C:\Users\DB1\Desktop\Working\Microservice\TelephoneGuide\src\Services\BasketService\BasketService.Api\obj\Debug\net5.0\ref\BasketService.Api.dll
 C:\Users\DB1\Desktop\Working\Microservice\TelephoneGuide\src\Services\BasketService\BasketService.Api\obj\Debug\net5.0\BasketService.Api.pdb
 C:\Users\DB1\Desktop\Working\Microservice\TelephoneGuide\src\Services\BasketService\BasketService.Api\obj\Debug\net5.0\BasketService.Api.genruntimeconfig.cache
+C:\Users\DB1\Desktop\Working\Microservice\TelephoneGuide\src\Services\BasketService\BasketService.Api\obj\Debug\net5.0\BasketService.Api.csproj.AssemblyReference.cache
